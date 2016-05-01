@@ -1,4 +1,4 @@
-starter-python-bot
+starter-python-bot-test
 =============
 
 ## Overview
